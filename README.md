@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **schedamian@gmail.com**
+- 📫 How to reach me **schedamian@gmail.com** || **https://t.me/solmyr_k**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
