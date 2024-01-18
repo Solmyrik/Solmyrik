@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dmitry</h1>
 <h3 align="center">A frontend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Solmyrik/deco/main/git/man-coding-on-laptop-3917209-3262954.gif"/>
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/Solmyrik/deco/main/git/man-coding-on-laptop-3917209-3262954.gif"/>
 
 
 - 🔭 I’m currently working on [Ratina](https://github.com/Solmyrik/ratina)
