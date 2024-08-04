@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Ratina](https://github.com/Solmyrik/ratina)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **JavaScript**
 
